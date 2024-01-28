@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\usr\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\usr\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

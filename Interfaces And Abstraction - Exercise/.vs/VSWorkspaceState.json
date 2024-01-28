@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01. Define an Interface IPerson",
+    "\\02. Multiple Implementation",
+    "\\03. Telephony\\IO",
+    "\\04. BorderControl",
+    "\\04. BorderControl\\Core",
+    "\\04. BorderControl\\IO"
+  ],
+  "SelectedNode": "\\04. BorderControl\\Core\\Engine.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.exe
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.deps.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\UnitTests\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.genruntimeconfig.cache

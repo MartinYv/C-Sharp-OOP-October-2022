@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\usr\source\repos\Inheritance Exersice\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

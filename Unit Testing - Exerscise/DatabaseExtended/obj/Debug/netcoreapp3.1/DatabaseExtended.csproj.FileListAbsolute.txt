@@ -1,0 +1,10 @@
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\usr\source\repos\UnitTestingExersice\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\usr\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\usr\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

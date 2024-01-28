@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\usr\source\repos\OOPExam\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

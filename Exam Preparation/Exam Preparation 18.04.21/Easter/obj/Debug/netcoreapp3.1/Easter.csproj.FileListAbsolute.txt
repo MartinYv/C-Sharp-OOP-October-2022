@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\usr\source\repos\Exam Preparation 18.04.21\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

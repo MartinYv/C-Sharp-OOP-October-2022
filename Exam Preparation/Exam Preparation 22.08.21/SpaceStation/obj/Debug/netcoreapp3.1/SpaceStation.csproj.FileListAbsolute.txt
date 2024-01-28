@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.21\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

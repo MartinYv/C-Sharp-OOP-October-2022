@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\usr\source\repos\C# OOP Retake Exam 22 Aug 2022 again\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache

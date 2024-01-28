@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\usr\source\repos\Exam Preparation 22.08.22\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache

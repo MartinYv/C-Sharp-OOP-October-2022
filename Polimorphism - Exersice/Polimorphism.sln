@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Polimorphism\Vehicles.csproj", "{36C551C0-05D2-4081-8DC7-556367F37059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{39BC5ABE-6283-47DD-BF89-E70E16422261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{843A2624-00C0-4FD7-A914-7896192454B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C551C0-05D2-4081-8DC7-556367F37059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C551C0-05D2-4081-8DC7-556367F37059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C551C0-05D2-4081-8DC7-556367F37059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C551C0-05D2-4081-8DC7-556367F37059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BC5ABE-6283-47DD-BF89-E70E16422261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BC5ABE-6283-47DD-BF89-E70E16422261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BC5ABE-6283-47DD-BF89-E70E16422261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BC5ABE-6283-47DD-BF89-E70E16422261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843A2624-00C0-4FD7-A914-7896192454B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843A2624-00C0-4FD7-A914-7896192454B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843A2624-00C0-4FD7-A914-7896192454B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843A2624-00C0-4FD7-A914-7896192454B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A069B7-604B-4DE9-B622-19791F97A0A9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\usr\source\repos\Polimorphism\Polimorphism\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

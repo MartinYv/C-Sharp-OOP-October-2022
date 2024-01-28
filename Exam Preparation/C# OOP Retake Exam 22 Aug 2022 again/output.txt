@@ -1,0 +1,41 @@
+5 stars hotel Saint George is registered in our platform and expects room availability to be uploaded.
+Successfully added Apartment room type in Saint George hotel!
+Successfully added Studio room type in Saint George hotel!
+Successfully added DoubleBed room type in Saint George hotel!
+Price of Apartment room type in Saint George hotel is set!
+Price of Studio room type in Saint George hotel is set!
+Price of DoubleBed room type in Saint George hotel is set!
+Booking number 1 for Saint George hotel is successful!
+Booking number 2 for Saint George hotel is successful!
+Booking number 3 for Saint George hotel is successful!
+Booking number 4 for Saint George hotel is successful!
+Booking number 5 for Saint George hotel is successful!
+Hotel name: Saint George
+--5 star hotel
+--Turnover: 3480.00 $
+--Bookings:
+
+Booking number: 1
+Room type: DoubleBed
+Adults: 2 Children: 0
+Total amount paid: 450.00 $
+
+Booking number: 2
+Room type: Studio
+Adults: 2 Children: 1
+Total amount paid: 880.00 $
+
+Booking number: 3
+Room type: Studio
+Adults: 3 Children: 1
+Total amount paid: 1100.00 $
+
+Booking number: 4
+Room type: Apartment
+Adults: 5 Children: 1
+Total amount paid: 350.00 $
+
+Booking number: 5
+Room type: Apartment
+Adults: 4 Children: 1
+Total amount paid: 700.00 $

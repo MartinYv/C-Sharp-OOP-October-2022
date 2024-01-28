@@ -1,0 +1,14 @@
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\usr\source\repos\Exam Preparation 15.08.22\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

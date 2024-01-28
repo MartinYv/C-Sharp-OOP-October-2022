@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace BookingApp.Models.Rooms
+{
+   public class Studio : Room
+    {
+
+        private const int STUDIO_BED_CAPACITY = 4;
+        public Studio() : base(STUDIO_BED_CAPACITY)
+        {
+
+        }
+
+    }
+}
